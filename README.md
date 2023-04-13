@@ -1,7 +1,7 @@
-# Degas-Portfolio
-A Portfolio displaying the work of Edgar Degas
+# Taylor-Portfolio
+A Portfolio displaying the work of Myself and filler images by Edgar Degas
 
-The purpose of this project is to provide information about Edgar Degas, links to their work, information about the years these works were made, and a contact section for myself and my Github account .
+The purpose of this project is to provide information about myself as a Web Developer, links to my previous work, information about when these works were made, and a contact section for myself and my Github account .
 
 ![Degas_portfolio_capture](https://user-images.githubusercontent.com/123839303/227744678-16cf6369-af63-40db-81c7-fa193828288a.jpeg)
 
@@ -13,7 +13,7 @@ The purpose of this project is to provide information about Edgar Degas, links t
 N/A
 
 ## Usage
-Students and those interested in pursuing more information about one of the greatest impresionists in history can use this website to travel to various works and learn more information about them, as well as a brief overview of Edgar Degas himself. 
+Future employers will be able to access various parts of my portfolio to view projects I am proud of and represent me as a student while working through this complex and rewarding class.
 
 ## Credits
 N/A
