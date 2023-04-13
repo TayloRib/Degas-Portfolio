@@ -3,7 +3,7 @@ A Portfolio displaying the work of Myself and filler images by Edgar Degas
 
 The purpose of this project is to provide information about myself as a Web Developer, links to my previous work, information about when these works were made, and a contact section for myself and my Github account .
 
-![Degas_portfolio_capture](https://user-images.githubusercontent.com/123839303/227744678-16cf6369-af63-40db-81c7-fa193828288a.jpeg)
+![image](https://user-images.githubusercontent.com/123839303/231886802-a2868e27-6ec4-4df6-a3ed-eb0af9a4fbc4.png)
 
 ## Website Location
 
