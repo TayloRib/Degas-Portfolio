@@ -7,7 +7,7 @@ The purpose of this project is to provide information about myself as a Web Deve
 
 ## Website Location
 
-(https://taylorib.github.io/Degas-Portfolio/)
+https://taylorib.github.io/Taylor-Portfolio/
 
 ## Installation
 N/A
